@@ -1,0 +1,6 @@
+﻿  oopprojv3.cpp
+G:\oop project\oopprojv3\oopprojv3.cpp(10,10): warning C4101: 'a': unreferenced local variable
+G:\oop project\oopprojv3\oopprojv3.cpp(9,15): warning C4101: 'z': unreferenced local variable
+G:\oop project\oopprojv3\oopprojv3.cpp(9,12): warning C4101: 'y': unreferenced local variable
+G:\oop project\oopprojv3\oopprojv3.cpp(9,9): warning C4101: 'x': unreferenced local variable
+  oopprojv3.vcxproj -> G:\oop project\oopproj\x64\Debug\oopprojv3.exe

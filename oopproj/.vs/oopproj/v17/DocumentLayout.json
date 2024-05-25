@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\New folder\\oop project\\oopproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F764-589E-48FC-B716-AE8C96062A5B}|..\\oopprojv4\\oopprojv4.vcxproj|G:\\New folder\\oop project\\oopprojv4\\banksystem4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F764-589E-48FC-B716-AE8C96062A5B}|..\\oopprojv4\\oopprojv4.vcxproj|G:\\New folder\\oop project\\oopprojv4\\customer4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F764-589E-48FC-B716-AE8C96062A5B}|..\\oopprojv4\\oopprojv4.vcxproj|G:\\New folder\\oop project\\oopprojv4\\myqueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F764-589E-48FC-B716-AE8C96062A5B}|..\\oopprojv4\\oopprojv4.vcxproj|G:\\New folder\\oop project\\oopprojv4\\oopprojv4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C367FA-91EC-46EA-9132-6E2652061872}|..\\oopprojv2\\oopprojv2.vcxproj|G:\\New folder\\oop project\\oopprojv2\\oopprojv2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C367FA-91EC-46EA-9132-6E2652061872}|..\\oopprojv2\\oopprojv2.vcxproj|G:\\New folder\\oop project\\oopprojv2\\banksystem2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oopprojv4.cpp",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv4\\oopprojv4.cpp",
+              "RelativeDocumentMoniker": "..\\oopprojv4\\oopprojv4.cpp",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv4\\oopprojv4.cpp",
+              "RelativeToolTip": "..\\oopprojv4\\oopprojv4.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T16:54:31.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "oopprojv2.cpp",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv2\\oopprojv2.cpp",
+              "RelativeDocumentMoniker": "..\\oopprojv2\\oopprojv2.cpp",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv2\\oopprojv2.cpp",
+              "RelativeToolTip": "..\\oopprojv2\\oopprojv2.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T16:54:31.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "banksystem2.h",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv2\\banksystem2.h",
+              "RelativeDocumentMoniker": "..\\oopprojv2\\banksystem2.h",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv2\\banksystem2.h",
+              "RelativeToolTip": "..\\oopprojv2\\banksystem2.h",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAjwJgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T16:54:31.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banksystem4.h",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv4\\banksystem4.h",
+              "RelativeDocumentMoniker": "..\\oopprojv4\\banksystem4.h",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv4\\banksystem4.h",
+              "RelativeToolTip": "..\\oopprojv4\\banksystem4.h",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAjwIIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T16:54:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myqueue.h",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv4\\myqueue.h",
+              "RelativeDocumentMoniker": "..\\oopprojv4\\myqueue.h",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv4\\myqueue.h",
+              "RelativeToolTip": "..\\oopprojv4\\myqueue.h",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAjwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T16:54:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customer4.h",
+              "DocumentMoniker": "G:\\New folder\\oop project\\oopprojv4\\customer4.h",
+              "RelativeDocumentMoniker": "..\\oopprojv4\\customer4.h",
+              "ToolTip": "G:\\New folder\\oop project\\oopprojv4\\customer4.h",
+              "RelativeToolTip": "..\\oopprojv4\\customer4.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAjwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T16:54:31.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
